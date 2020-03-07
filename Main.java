@@ -1,6 +1,4 @@
-//Mohamed Eladl
-//ID:1203261
-//CSCI 260
+
 public class Main {
 
     public static void main(String[] args) {
