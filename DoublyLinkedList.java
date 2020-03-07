@@ -1,6 +1,4 @@
-//Mohamed Eladl
-//ID:1203261
-//CSCI 260
+
 public class DoublyLinkedList{
     private Link first;               
     private Link last;                
